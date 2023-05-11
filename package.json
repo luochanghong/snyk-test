@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/stereobooster/package.json#readme",
   "dependencies": {
-    "markdown-toc": "^1.2.0",
     "core-js": "^1.1.4"
   }
 }
