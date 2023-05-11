@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/stereobooster/package.json#readme",
   "dependencies": {
-    "markdown-toc": "^1.2.0"
+    "markdown-toc": "^1.2.0",
+    "jquery": "^3.6.1",
+    "lodash-node": "^3.10.2",
+    "babel-runtime":"^5.8.24",
+    "core-js": "^1.1.4"
   }
 }
