@@ -18,7 +18,7 @@
   "homepage": "https://github.com/stereobooster/package.json#readme",
   "dependencies": {
     "markdown-toc": ">1.0.0",
-    "remarkable": 1.7.4,
+    "remarkable": "1.7.4",
     "test-lch":"^1.2.1"
   }
 }
